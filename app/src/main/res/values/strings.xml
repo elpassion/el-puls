@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ElPuls</string>
+    <string name="heart_rate_result">0</string>
+    <string name="start_heart_rate">Start heart rate</string>
+    <string name="stop_heart_rate">Stop heart rate</string>
+    <string name="connection_text">Connecting to your band...</string>
+    <string name="pref_name">Preferences</string>
+    <string name="heart_rate_pref_name">Heart rate limit</string>
+</resources>

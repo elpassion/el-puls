@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Set theme colors from http://www.google.com/design/spec/style/color.html#color-color-palette-->
+        <item name="android:windowBackground">@color/colorPrimaryLight</item>
+
+        <item name="android:spinnerDropDownItemStyle">@style/ActionBarSpinnerDropdown</item>
+
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ActionBarSpinnerDropdown">
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+
+</resources>
